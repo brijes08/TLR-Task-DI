@@ -50,9 +50,11 @@ a.site_btn {
 
 a.site_btn:hover {
     background-color: #171717;
-    border: 1px solid #937F78;
 }
-
+.our_work_head a.site_btn:hover{
+    background-color: #171717;
+    color: #ffffff;
+}
 section,
 header,
 footer {
