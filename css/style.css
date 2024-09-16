@@ -876,3 +876,6 @@ section.our_work_sec {
     display: flex;
     justify-content: center;
 }
+.footer-subscribe input:focus-visible {
+    outline: none;
+}
