@@ -1,0 +1,923 @@
+@media (max-width: 1599px) {
+    .logo img {
+        height: 120px;
+        width : 100px;
+    }
+
+    .info ul {
+        margin-right: 60px;
+    }
+
+    .ftr_links ul li a {
+        font-size: 11px;
+    }
+
+    .leather_issues_tabs .tab button {
+        font-size  : 37px;
+        line-height: 58px;
+    }
+
+    .leather_issues_sec_content h2 {
+        font-size  : 62px;
+        line-height: 57px;
+    }
+
+    .wefix_tabs .tab button {
+        font-size  : 67px;
+        line-height: 70px;
+    }
+
+    .wefix_tabs_content h2 {
+        font-size  : 62px;
+        line-height: 57px;
+    }
+
+    .wefix_tabs_content h6 {
+        font-size  : 30px;
+        line-height: 41px;
+    }
+
+    .symphony_sec_content h2 {
+        font-size  : 82px;
+        line-height: 87px;
+    }
+
+    .symphony_sec_content h5 {
+        font-size  : 42px;
+        line-height: 45px;
+    }
+
+    .symphony_sec_content p {
+        font-size  : 23px;
+        line-height: 46px;
+    }
+
+    .main_banner h3 {
+        font-size  : 57px;
+        line-height: 55px;
+    }
+}
+
+@media (max-width: 1399px) {
+    .logo img {
+        height: 110px;
+        width : 90px;
+    }
+
+    .info a.appointment_btn {
+        padding    : 8px 20px 8px 20px;
+        font-size  : 12px;
+        line-height: 18px;
+    }
+
+    .info ul {
+        margin-right: 40px;
+    }
+
+    .nav-links li a {
+        margin     : 0 12px;
+        font-size  : 15px;
+        line-height: 25px;
+    }
+
+    .info ul li a {
+        font-size  : 12px;
+        line-height: 17px;
+    }
+
+    .wefix_tabs .tab button {
+        font-size  : 62px;
+        line-height: 65px;
+    }
+
+    .wefix_tabs_content h2 {
+        font-size  : 57px;
+        line-height: 60px;
+    }
+
+    .wefix_tabs_content h6 {
+        font-size  : 27px;
+        line-height: 38px;
+    }
+
+    .symphony_sec_content h2 {
+        font-size  : 79px;
+        line-height: 84px;
+    }
+
+    .symphony_sec_content h5 {
+        font-size  : 39px;
+        line-height: 42px;
+    }
+
+    .symphony_sec_content p {
+        font-size  : 20px;
+        line-height: 43px;
+    }
+
+    .main_banner h3 {
+        font-size  : 54px;
+        line-height: 52px;
+    }
+
+    .leather_issues_tabs .tab button {
+        font-size  : 34px;
+        line-height: 55px;
+    }
+
+    .leather_issues_sec_content h2 {
+        font-size  : 59px;
+        line-height: 60px;
+    }
+
+    .wefix_sec_content {
+        width: 80%;
+    }
+
+    .leather_issues_sec_content {
+        width: 80%;
+    }
+
+    .testimonial_content {
+        width: 54%;
+    }
+
+    .visitus_sec_content {
+        width: 86%;
+    }
+
+    .ftr_links:nth-child(2) {
+        width: 28.3%;
+    }
+
+    .ftr_links:nth-child(1) {
+        width: 38.3%;
+    }
+
+    .our_work_slider .owl-carousel .disabled+.owl-dots {
+        left: 46.9%;
+    }
+}
+
+@media (max-width: 1199px) {
+    .logo img {
+        height: 100px;
+        width : 80px;
+    }
+
+    .social_media a {
+        margin-left: 10px;
+    }
+
+    .info a.appointment_btn {
+        margin-right: 4px;
+    }
+
+    .info ul {
+        margin-right: 20px;
+    }
+
+    .nav-links li a {
+        margin     : 0 7px;
+        font-size  : 13px;
+        line-height: 23px;
+    }
+
+    .info ul li a {
+        font-size  : 10px;
+        line-height: 15px;
+    }
+
+    .info a.appointment_btn {
+        font-size  : 10px;
+        line-height: 16px;
+    }
+
+    .main_banner h3 {
+        font-size  : 44px;
+        line-height: 46px;
+    }
+
+    .main_banner a {
+        font-size  : 15px;
+        line-height: 48px;
+    }
+
+    .symphony_sec_content h2 {
+        font-size  : 63px;
+        line-height: 68px;
+    }
+
+    .symphony_sec_content h5 {
+        font-size  : 34px;
+        line-height: 37px;
+    }
+
+    .symphony_sec_content p {
+        font-size  : 18px;
+        line-height: 41px;
+    }
+
+    .symphony_sec_content {
+        width: 61%;
+    }
+
+    .wefix_tabs .tab button {
+        font-size  : 50px;
+        line-height: 53px;
+    }
+
+    .tab button.active {
+        padding-left: 80px;
+    }
+
+    .tab button.active::before {
+        width: 70px;
+    }
+
+    .wefix_tabs_content h2 {
+        font-size  : 47px;
+        line-height: 50px;
+    }
+
+    .wefix_tabs_content h6 {
+        font-size  : 30px;
+        line-height: 41px;
+    }
+
+    .leather_issues_sec_content h2 {
+        font-size  : 49px;
+        line-height: 50px;
+    }
+
+    .leather_issues_tabs .tab button {
+        font-size  : 30px;
+        line-height: 51px;
+    }
+
+    .leather_issues_sec_content {
+        width: 85%;
+    }
+
+    .testimonials_slider .owl-carousel .disabled+.owl-dots {
+        left: 45%;
+    }
+
+    .our_work_slider .owl-carousel .disabled+.owl-dots {
+        left: 46.3%;
+    }
+
+    .ftr_container,
+    .copyright {
+        width: 80%;
+    }
+}
+
+@media (max-width: 991px) {
+    nav {
+        position: fixed;
+        z-index : 3;
+    }
+
+    .hamburger {
+        display   : block;
+        position  : absolute;
+        cursor    : pointer;
+        right     : 5%;
+        top       : 50%;
+        transform : translate(-5%, -50%);
+        z-index   : 2;
+        transition: all 0.7s ease;
+    }
+
+
+    ul.main_menu,
+    .info {
+        display: none;
+    }
+
+    .nav-links.open .info {
+        display       : flex;
+        flex-direction: column;
+    }
+
+    .nav-links.open .main_menu {
+        display       : flex;
+        flex-direction: column;
+    }
+
+    .nav-links {
+        position         : fixed;
+        background       : #131418;
+        height           : 100vh;
+        width            : 100%;
+        flex-direction   : column;
+        clip-path        : circle(50px at 90% -20%);
+        -webkit-clip-path: circle(50px at 90% -10%);
+        transition       : all 1s ease-out;
+        pointer-events   : none;
+    }
+
+    .nav-links.open {
+        clip-path        : circle(1000px at 90% -10%);
+        -webkit-clip-path: circle(1000px at 90% -10%);
+        pointer-events   : all;
+        justify-content  : center;
+        align-items      : center;
+        display          : flex;
+    }
+
+    .nav-links li {
+        opacity      : 0;
+        margin-bottom: 15px;
+    }
+
+    .nav-links li:nth-child(1) {
+        transition: all 0.5s ease 0.2s;
+    }
+
+    .nav-links li:nth-child(2) {
+        transition: all 0.5s ease 0.4s;
+    }
+
+    .nav-links li:nth-child(3) {
+        transition: all 0.5s ease 0.6s;
+    }
+
+    .nav-links li:nth-child(4) {
+        transition: all 0.5s ease 0.7s;
+    }
+
+    .nav-links li:nth-child(5) {
+        transition: all 0.5s ease 0.8s;
+    }
+
+    .nav-links li:nth-child(6) {
+        transition: all 0.5s ease 0.9s;
+        margin    : 0;
+    }
+
+    .nav-links li:nth-child(7) {
+        transition: all 0.5s ease 1s;
+        margin    : 0;
+    }
+
+    li.fade {
+        opacity: 1;
+    }
+
+
+    .info ul {
+        text-align  : center;
+        margin-right: 0px;
+    }
+
+    .info a.appointment_btn {
+        margin-right: 7px;
+    }
+
+    .social_media a {
+        margin: 0px 7px;
+    }
+
+    .nav-links {
+        left: 0px;
+        top : 0px;
+    }
+
+    .nav-links.open {
+        clip-path        : circle(1000px at 50% -10%);
+        -webkit-clip-path: circle(1000px at 50% -10%);
+    }
+
+    .nav-links li a {
+        margin     : 0px 0px;
+        font-size  : 19px;
+        line-height: 30px;
+    }
+
+    .info ul li a {
+        font-size  : 19px;
+        line-height: 30px;
+    }
+
+    .info a.appointment_btn {
+        margin-right: 0px;
+    }
+
+    .info a.appointment_btn {
+        font-size  : 19px;
+        line-height: 30px;
+    }
+
+    .social_media {
+        margin-top: 20px;
+    }
+
+    .banner_content {
+        width: 90%;
+    }
+
+    .main_banner h3 {
+        font-size  : 35px;
+        line-height: 40px;
+    }
+
+    .symphony_sec_content {
+        width: 70%;
+    }
+
+    .symphony_sec_content h2 {
+        font-size  : 50px;
+        line-height: 55px;
+    }
+
+    .symphony_sec_content h5 {
+        font-size  : 28px;
+        line-height: 33px;
+        margin-top : 18px;
+    }
+
+    .symphony_sec_content p {
+        font-size  : 16px;
+        line-height: 35px;
+    }
+
+    .wefix_sec_content {
+        width: 90%;
+    }
+
+    .tab button.active {
+        padding-left: 60px;
+    }
+
+    .tab button.active::before {
+        width: 50px;
+    }
+
+    .wefix_tabs .tab button {
+        font-size  : 40px;
+        line-height: 46px;
+    }
+
+    .wefix_tabs_content h2 {
+        font-size    : 37px;
+        line-height  : 40px;
+        margin-bottom: 14px;
+    }
+
+    .wefix_tabs_content h6 {
+        font-size  : 20px;
+        line-height: 31px;
+    }
+
+    .leather_issues_sec_content {
+        width: 90%;
+    }
+
+    .leather_issues_tabs .tab button {
+        font-size  : 24px;
+        line-height: 45px;
+    }
+
+    .leather_issues_sec_content h4 {
+        font-size  : 32px;
+        line-height: 45px;
+    }
+
+    .leather_issues_sec_content h2 {
+        font-size  : 39px;
+        line-height: 40px;
+    }
+
+    .our_work_head h4 {
+        font-size  : 38px;
+        line-height: 41px;
+    }
+
+    section.our_work_sec {
+        padding: 100px 0 80px;
+    }
+
+    .brands_logo ul {
+        padding: 50px 20px 0;
+    }
+
+    .brands_logo ul li {
+        padding: 0px 15px;
+    }
+
+    .testimonials_head h5 {
+        font-size    : 23px;
+        line-height  : 43px;
+        margin-bottom: 55px;
+    }
+
+    .testimonials_slider h4 {
+        font-size  : 22px;
+        line-height: 31px;
+    }
+
+    .testimonials_slider .owl-carousel .disabled+.owl-dots {
+        left: 43%;
+    }
+
+    .visitus_sec_content h4 {
+        margin-bottom: 22px;
+        font-size    : 36px;
+        line-height  : 31px;
+    }
+
+    .visitus_sec_content p,
+    .visitus_sec_content .info_footer a {
+        font-size  : 15px;
+        line-height: 26px;
+    }
+
+    .ftr_container,
+    .copyright {
+        width: 90%;
+    }
+
+    .ftr_links:nth-child(2) {
+        width: 23.3%;
+    }
+
+    .ftr_links:nth-child(1) {
+        width: 43.3%;
+    }
+}
+
+@media (max-width: 767px) {
+
+    .banner_content,
+    .wefix_sec_content,
+    .symphony_sec_content,
+    .leather_issues_sec_content {
+        width: 100%;
+    }
+
+    .testimonials_slider {
+        padding: 50px;
+    }
+
+    .testimonial_content {
+        width: 78%;
+    }
+
+    .testimonials_head h5 {
+        margin-bottom: 20px;
+    }
+
+    .testimonials_slider h4 {
+        font-size  : 17px;
+        line-height: 26px;
+    }
+
+    .testimonials_slider h6 {
+        margin-top: 20px;
+    }
+
+    .testimonials_slider .owl-carousel .disabled+.owl-dots {
+        bottom: 0px;
+        left  : 42%;
+    }
+
+    .our_work_slider .owl-carousel .disabled+.owl-dots {
+        left  : 43.3%;
+        bottom: -29px;
+    }
+
+    .ftr_links:nth-child(3) {
+        width     : 100%;
+        margin-top: 20px;
+    }
+
+    .ftr_links:nth-child(2) {
+        width: 30%;
+    }
+
+    .ftr_links:nth-child(1) {
+        width: 70%;
+    }
+
+    .ftr_container {
+        flex-wrap: wrap;
+    }
+
+    .footer-subscribe {
+        width: 60%;
+    }
+
+    .brands_logo ul li {
+        height: 44px;
+    }
+
+    .our_work_slider::before {
+        height: 87%;
+        top   : 0px;
+    }
+
+    section.our_work_sec {
+        padding: 70px 0 60px;
+    }
+
+    .leather_issues_sec_content h4 {
+        font-size  : 23px;
+        line-height: 35px;
+    }
+
+    .leather_issues_tabs .tab button {
+        font-size  : 20px;
+        line-height: 41px;
+    }
+
+    .leather_issues_sec_content h2 {
+        font-size  : 25px;
+        line-height: 37px;
+    }
+
+    .leather_issues_sec_content h4 {
+        margin-bottom: 10px;
+    }
+
+    .wefix_tabs .tab button {
+        font-size  : 27px;
+        line-height: 37px;
+    }
+
+    .wefix_tabs_content h2 {
+        font-size    : 27px;
+        line-height  : 32px;
+        margin-bottom: 10px;
+    }
+
+    .wefix_tabs_content h6 {
+        font-size  : 15px;
+        line-height: 23px;
+    }
+
+    .wefix_sec_content h4 {
+        font-size    : 27px;
+        line-height  : 40px;
+        margin-bottom: 10px;
+    }
+
+    .symphony_sec_content h2 {
+        font-size  : 37px;
+        line-height: 42px;
+    }
+
+    .symphony_sec_content h5 {
+        font-size  : 21px;
+        line-height: 25px;
+        margin-top : 15px;
+    }
+
+    .symphony_sec_content p {
+        font-size  : 16px;
+        line-height: 24px;
+    }
+
+    .main_banner h3 {
+        font-size  : 25px;
+        line-height: 30px;
+    }
+
+    .main_banner a {
+        font-size  : 12px;
+        line-height: 45px;
+    }
+}
+
+@media (max-width: 575px) {
+
+    .bnr_cntnt_main {
+        padding: 10px 10px 28px;
+    }
+
+    .symphony_cntnt_main,
+    .wefix_cntnt_main,
+    .leather_issues_cntnt_main,
+    .testimonials_slider,
+    .visitus_cntnt_main {
+        padding: 10px;
+    }
+
+    section.our_work_sec {
+        padding: 50px 0 40px;
+    }
+
+    .brands_sec {
+        padding: 50px 0;
+    }
+
+    nav {
+        padding: 10px 10px;
+    }
+
+    .logo img {
+        height: 85px;
+        width : 75px;
+    }
+
+    .visitus_sec_content p,
+    .visitus_sec_content .info_footer a {
+        font-size  : 14px;
+        line-height: 23px;
+    }
+
+    section>img {
+        height: 290px;
+    }
+
+
+    .main_banner h3 {
+        font-size  : 22px;
+        line-height: 27px;
+    }
+
+    .main_banner a::before {
+        font-size: 15px;
+        top      : 16px;
+    }
+
+    .main_banner a {
+        font-size  : 12px;
+        line-height: 25px;
+    }
+
+    .symphony_sec_content h2 {
+        font-size  : 24px;
+        line-height: 29px;
+    }
+
+    .symphony_sec_content h5 {
+        font-size  : 17px;
+        line-height: 20px;
+        margin-top : 11px;
+    }
+
+    .symphony_sec_content p {
+        font-size  : 12px;
+        line-height: 20px;
+    }
+
+    a.site_btn {
+        padding    : 5px 18px 5px 18px;
+        font-size  : 9px;
+        line-height: 16px;
+    }
+
+    .wefix_sec_content h4,
+    .leather_issues_sec_content h4,
+    .brands_head h4 {
+        font-size    : 20px;
+        line-height  : 32px;
+        margin-bottom: 5px;
+    }
+
+    .wefix_tabs .tab button {
+        font-size  : 20px;
+        line-height: 28px;
+    }
+
+    .tab button.active {
+        padding-left: 30px;
+    }
+
+    .tab button.active::before {
+        width: 25px;
+    }
+
+    .wefix_tabs_content h2 {
+        font-size    : 20px;
+        line-height  : 25px;
+        margin-bottom: 8px;
+    }
+
+    .wefix_tabs_content h6 {
+        font-size  : 12px;
+        line-height: 18px;
+    }
+
+    .leather_issues_tabs .tab button {
+        font-size  : 17px;
+        line-height: 25px;
+    }
+
+    .leather_issues_tabs {
+        display: block;
+    }
+
+    .leather_issues_sec img {
+        display: block;
+        height : 350px;
+    }
+
+    .leather_issues_tabs_content {
+        width: 100%;
+    }
+
+    .leather_issues_tabs .tab {
+        width: 100%;
+    }
+
+    .leather_issues_sec_content h2 {
+        font-size  : 20px;
+        line-height: 25px;
+        margin-top : 10px;
+    }
+
+    .our_work_head h4 {
+        font-size  : 20px;
+        line-height: 32px;
+    }
+
+    .our_work_head a.site_btn {
+        margin-top: 5px;
+    }
+
+    .our_work_slider .products {
+        width: 90%;
+    }
+
+    .our_work_slider .owl-carousel .disabled+.owl-dots {
+        left  : 38.3%;
+        bottom: -24px;
+    }
+
+    .brands_logo ul li {
+        margin-top: 26px;
+        width     : 20%;
+        padding   : 0px 10px;
+    }
+
+    .brands_logo ul {
+        padding: 10px 10px 0;
+    }
+
+    .brands_logo ul {
+        flex-wrap: wrap;
+    }
+
+    .testimonials_head h5 {
+        font-size  : 20px;
+        line-height: 32px;
+    }
+
+    .testimonials_slider h4::before,
+    .testimonials_slider h4::after {
+        width : 20px;
+        height: 26px;
+    }
+
+    .testimonials_slider h4::before {
+        left: -8px;
+        top : -22px;
+    }
+
+    .testimonials_slider h4::after {
+        right : -8px;
+        bottom: -22px;
+    }
+
+    .testimonial_content {
+        width: 90%;
+    }
+
+    .testimonial_content {
+        margin: 11px auto;
+    }
+
+    .testimonials_slider h6 {
+        margin-top : 7px;
+        font-size  : 14px;
+        line-height: 35px;
+    }
+
+    .testimonials_slider .owl-carousel .disabled+.owl-dots {
+        bottom: -7px;
+        left  : 37%;
+    }
+
+    .visitus_sec_content h4 {
+        margin-bottom: 9px;
+        font-size    : 22px;
+        line-height  : 34px;
+    }
+
+    .visitus_sec_content {
+        width: 100%;
+    }
+
+    .info_footer {
+        flex-wrap: wrap;
+    }
+    .info_footer p {
+        display: none;
+    }
+    .footer-subscribe {
+        width: 90%;
+    }
+}
