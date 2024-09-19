@@ -124,7 +124,7 @@ $('.testimonials_car').owlCarousel({
 
 
 let page = 0;
-let sections = document.querySelectorAll('.section'); // Assuming each section has a class 'section'
+let sections = document.querySelectorAll('.section'); 
 let limit = sections.length;
 let vh = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
 let clock = 0;
@@ -135,14 +135,12 @@ window.onwheel = function(event) {
     let go = (event.deltaY < 0) ? -1 : +1;
     page += go;
 
-    // Clamp page number between 0 and limit - 1
     if (page < 0) page = 0;
     if (page >= limit) page = limit - 1;
 
-    // Scroll to the section
     $('html, body').animate({
       scrollTop: sections[page].offsetTop
-    }, 500); // Add duration for smoother scrolling
+    }, 500); 
 
     setTimeout(function() { clock = 0; }, 1000);
   }
