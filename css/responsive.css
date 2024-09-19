@@ -705,11 +705,11 @@
     }
 
     section.our_work_sec {
-        padding: 50px 0 40px;
+        padding: 100px 0 40px;
     }
 
     .brands_sec {
-        padding: 50px 0;
+        padding: 93px 0;
     }
 
     nav {
@@ -811,8 +811,11 @@
     }
 
     .leather_issues_sec img {
-        display: block;
-        /* height : 350px; */
+        /* display: block; */
+        height: 100%;
+    }
+    .visitus_sec img {
+        height: 100%;
     }
 
     .leather_issues_tabs_content {
@@ -900,8 +903,9 @@
         bottom: -7px;
         left  : 37%;
     }
+
     html {
-        overflow       : scroll
+        overflow: scroll
     }
 
     .visitus_sec_content h4 {
@@ -917,10 +921,16 @@
     .info_footer {
         flex-wrap: wrap;
     }
+
     .info_footer p {
         display: none;
     }
+
     .footer-subscribe {
         width: 90%;
+    }
+
+    section {
+        height: 60vh;
     }
 }

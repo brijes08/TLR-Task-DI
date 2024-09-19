@@ -232,7 +232,7 @@ nav {
 
 .info ul {
     margin-right: 100px;
-    list-style: none;
+    list-style  : none;
 }
 
 
@@ -243,9 +243,9 @@ nav {
 }
 
 .main_banner img {
-    width  : 100%;
-    display: block;
-    height: 100vh;
+    width     : 100%;
+    display   : block;
+    height    : 100vh;
     object-fit: cover;
 }
 
@@ -303,9 +303,9 @@ nav {
 }
 
 .symphony_sec img {
-    width  : 100%;
-    display: block;
-    height: 100vh;
+    width     : 100%;
+    display   : block;
+    height    : 100vh;
     object-fit: cover;
 }
 
@@ -359,9 +359,9 @@ nav {
 }
 
 .wefix_sec img {
-    width  : 100%;
-    display: block;
-    height: 100vh;
+    width     : 100%;
+    display   : block;
+    height    : 100vh;
     object-fit: cover;
 }
 
@@ -506,9 +506,9 @@ nav {
 }
 
 .leather_issues_sec img {
-    width  : 100%;
-    display: block;
-    height: 100vh;
+    width     : 100%;
+    display   : block;
+    height    : 100vh;
     object-fit: cover;
 }
 
@@ -601,12 +601,14 @@ section.our_work_sec {
     left            : 50%;
 }
 
-section.brands_sec, .footer {
+section.brands_sec,
+.footer {
     height: auto;
 }
+
 .brands_sec {
     background-color: #171717;
-    padding         : 70px 0;
+    padding         : 130px 0 70px;
 }
 
 .brands_head h4 {
@@ -646,9 +648,9 @@ section.brands_sec, .footer {
 }
 
 .testimonials_sec img {
-    width  : 100%;
-    display: block;
-    height: 100vh;
+    width     : 100%;
+    display   : block;
+    height    : 100vh;
     object-fit: cover;
 }
 
@@ -746,9 +748,9 @@ section.brands_sec, .footer {
 }
 
 .visitus_sec img {
-    width  : 100%;
-    display: block;
-    height: 100vh;
+    width     : 100%;
+    display   : block;
+    height    : 100vh;
     object-fit: cover;
 }
 
