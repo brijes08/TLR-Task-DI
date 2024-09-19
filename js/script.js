@@ -1,4 +1,3 @@
-// For Header Responsive
 const hamburger = document.querySelector(".hamburger");
 const navLinks = document.querySelector(".nav-links");
 const links = document.querySelectorAll(".nav-links li");
@@ -27,7 +26,6 @@ function wefix(evt, wefixName) {
     evt.currentTarget.className += " active";
 }
 
-// Get the element with id="defaultOpen" and click on it
 document.getElementById("wefix").click();
 
 
@@ -45,7 +43,6 @@ function leather(evt, leatherName) {
     evt.currentTarget.className += " active";
 }
 
-// Get the element with id="defaultOpen" and click on it
 document.getElementById("leather").click();
 
 
