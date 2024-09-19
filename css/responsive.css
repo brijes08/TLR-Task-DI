@@ -900,6 +900,9 @@
         bottom: -7px;
         left  : 37%;
     }
+    html {
+        overflow       : scroll
+    }
 
     .visitus_sec_content h4 {
         margin-bottom: 9px;
